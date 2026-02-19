@@ -18,17 +18,26 @@
 
 // STEP 4
 // Camel case
-let firstName, lastName
-let address, city, state, zipCode 
-let yourAge 
-let referralSource 
-let mayWeContactYou
+//let firstName, lastName
+//let address, city, state, zipCode 
+//let yourAge 
+//let referralSource 
+//let mayWeContactYou
 
 // Hingarian notation
-let strFirstName, strLastName 
-let srtAddress, strCity, strState, intZipCode 
-let intYourAge 
-let strReferralSource 
-let blnMayWeContactYou
+//let strFirstName, strLastName 
+//let srtAddress, strCity, strState, intZipCode 
+//let intYourAge 
+//let strReferralSource 
+//let blnMayWeContactYou
 
 // STEP 5
+//let firstName = 'Edgar'
+//let lastName = 'Vazquez'
+//let city = 'SD'
+//const firstName = 'Edgar'
+//const lastName = 'Vazquez'
+//const city = 'SD'
+//let firstName = 'Edgar' , lastName = 'Vazquez' , city = 'SD'
+
+// STEP 6
