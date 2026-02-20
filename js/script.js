@@ -44,3 +44,25 @@
 //let className = 'COMP690'
 //let message = "I'm taking " + className + ' in 2026' 
 //window.alert(message)
+
+// STEP 7
+//let isAvailable = true
+//let message = 'Is this seat available? ' + isAvailable
+//console.log(message)
+
+//let isDigit = true
+//let age = 16 + isDigit
+//console.log(age)
+
+
+// STEP 8
+//let someString = 'Who once said, ' + '"Only two things are infinite, the universe and human stupidity, and I' + "'m not sure about the former." + '"' 
+//console.log(someString)
+
+// STEP 9
+//let x = 1
+//x = null
+//console.log(x);
+
+//let x
+//console.log(x)
