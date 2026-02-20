@@ -41,7 +41,6 @@
 //let firstName = 'Edgar' , lastName = 'Vazquez' , city = 'SD'
 
 // STEP 6
-let className = 'COMP690'
-let thisYear = 2026
-let message = "Im taking " + className + ' in ' + thisYear
-console.log(message)
+//let className = 'COMP690'
+//let message = "I'm taking " + className + ' in 2026' 
+//window.alert(message)
